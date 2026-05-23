@@ -94,4 +94,5 @@ Thumbs.db
 # ── Misc ──────────────────────────────────────────────────────────────────────
 *.log
 *.tmp
-.claude/
+.claude/settings.local.json
+.claude/memory/
